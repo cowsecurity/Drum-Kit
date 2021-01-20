@@ -1,2 +1,2 @@
 # Drum-Kit
-Interactive site made using HTML , CSS and Javascript
+Interactive site made using HTML , CSS , Javascript with jQuery.
